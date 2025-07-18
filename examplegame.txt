@@ -1,0 +1,409 @@
+selliott@Shanes-MacBook-Pro-3 WAR-Card-Game % ruby game_of_war.rb     
+~~~~~WAR CARD GAME~~~~~
+How many players (2-4):
+4
+Start game:
+(Press enter to play a round)
+
+Round Number 1 - P1:[8]  P2:[9]  Winner P3:[K]  P4:[3]  
+Deck Count - P1:12 P2:12 P3:16 P4:12 
+(Press enter to play a round)
+
+Round Number 2 - P1:[8]  P2:[K]  Winner P3:[A]  P4:[7]  
+Deck Count - P1:11 P2:11 P3:19 P4:11 
+(Press enter to play a round)
+
+Round Number 3 - P1:[J]  Winner P2:[A]  P3:[10]  P4:[2]  
+Deck Count - P1:10 P2:14 P3:18 P4:10 
+(Press enter to play a round)
+
+Round Number 4 - P1:[4]  Winner P2:[9]  P3:[4]  P4:[8]  
+Deck Count - P1:9 P2:17 P3:17 P4:9 
+(Press enter to play a round)
+
+Round Number 5 - Winner P1:[8]  P2:[6]  P3:[4]  P4:[5]  
+Deck Count - P1:12 P2:16 P3:16 P4:8 
+(Press enter to play a round)
+
+Round Number 6 - Winner P1:[J]  P2:[9]  P3:[3]  P4:[10]  
+Deck Count - P1:15 P2:15 P3:15 P4:7 
+(Press enter to play a round)
+
+Round Number 7 - P1:[2]  Winner P2:[5]  P3:[3]  P4:[2]  
+Deck Count - P1:14 P2:18 P3:14 P4:6 
+(Press enter to play a round)
+
+Round Number 8 - P1:[6]  Winner P2:[A]  P3:[4]  P4:[2]  
+Deck Count - P1:13 P2:21 P3:13 P4:5 
+(Press enter to play a round)
+
+Round Number 9 - P1:[10]  Winner P2:[Q]  Winner P3:[Q]  P4:[7]  
+Round Number 9 - Winner P2:[Q] [X,X,X] P3:[J] [X,X,X] 
+Deck Count - P1:12 P2:28 P3:8 P4:4 
+(Press enter to play a round)
+
+Round Number 10 - P1:[Q]  P2:[10]  Winner P3:[K]  P4:[5]  
+Deck Count - P1:11 P2:27 P3:11 P4:3 
+(Press enter to play a round)
+
+Round Number 11 - P1:[J]  Winner P2:[A]  P3:[9]  P4:[3]  
+Deck Count - P1:10 P2:30 P3:10 P4:2 
+(Press enter to play a round)
+
+Round Number 12 - P1:[6]  P2:[J]  P3:[8]  Winner P4:[A]  
+Deck Count - P1:9 P2:29 P3:9 P4:5 
+(Press enter to play a round)
+
+Round Number 13 - Winner P1:[K]  P2:[2]  P3:[3]  P4:[10]  
+Deck Count - P1:12 P2:28 P3:8 P4:4 
+(Press enter to play a round)
+
+Round Number 14 - P1:[5]  P2:[4]  Winner P3:[K]  P4:[6]  
+Deck Count - P1:11 P2:27 P3:11 P4:3 
+(Press enter to play a round)
+
+Round Number 15 - P1:[6]  Winner P2:[8]  P3:[7]  Winner P4:[8]  
+Round Number 15 - Winner P2:[2] [X,X,X] P4:[-] [X,X,X] 
+Deck Count - P1:10 P2:32 P3:10 P4:0 
+(Press enter to play a round)
+
+Round Number 16 - P1:[4]  P2:[2]  Winner P3:[A]  P4:[-]  
+Deck Count - P1:9 P2:31 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 17 - Winner P1:[8]  P2:[3]  Winner P3:[8]  P4:[-]  
+Round Number 17 - P1:[9] [X,X,X] Winner P3:[Q] [X,X,X] 
+Deck Count - P1:4 P2:30 P3:18 P4:0 
+(Press enter to play a round)
+
+Round Number 18 - P1:[3]  Winner P2:[A]  P3:[K]  P4:[-]  
+Deck Count - P1:3 P2:32 P3:17 P4:0 
+(Press enter to play a round)
+
+Round Number 19 - Winner P1:[K]  P2:[4]  P3:[4]  P4:[-]  
+Deck Count - P1:5 P2:31 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 20 - P1:[2]  P2:[2]  Winner P3:[5]  P4:[-]  
+Deck Count - P1:4 P2:30 P3:18 P4:0 
+(Press enter to play a round)
+
+Round Number 21 - Winner P1:[10]  P2:[6]  P3:[6]  P4:[-]  
+Deck Count - P1:6 P2:29 P3:17 P4:0 
+(Press enter to play a round)
+
+Round Number 22 - Winner P1:[K]  P2:[10]  P3:[2]  P4:[-]  
+Deck Count - P1:8 P2:28 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 23 - P1:[4]  Winner P2:[Q]  P3:[4]  P4:[-]  
+Deck Count - P1:7 P2:30 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 24 - P1:[4]  P2:[7]  Winner P3:[A]  P4:[-]  
+Deck Count - P1:6 P2:29 P3:17 P4:0 
+(Press enter to play a round)
+
+Round Number 25 - P1:[6]  P2:[7]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:5 P2:28 P3:19 P4:0 
+(Press enter to play a round)
+
+Round Number 26 - P1:[6]  P2:[7]  Winner P3:[8]  P4:[-]  
+Deck Count - P1:4 P2:27 P3:21 P4:0 
+(Press enter to play a round)
+
+Round Number 27 - P1:[10]  Winner P2:[Q]  P3:[9]  P4:[-]  
+Deck Count - P1:3 P2:29 P3:20 P4:0 
+(Press enter to play a round)
+
+Round Number 28 - Winner P1:[K]  Winner P2:[K]  P3:[J]  P4:[-]  
+Round Number 28 - P1:[-] [X,X,X] Winner P2:[J] [X,X,X] 
+Deck Count - P1:0 P2:33 P3:19 P4:0 
+(Press enter to play a round)
+
+Round Number 29 - P1:[-]  P2:[5]  Winner P3:[10]  P4:[-]  
+Deck Count - P1:0 P2:32 P3:20 P4:0 
+(Press enter to play a round)
+
+Round Number 30 - P1:[-]  Winner P2:[J]  P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:33 P3:19 P4:0 
+(Press enter to play a round)
+
+Round Number 31 - P1:[-]  P2:[9]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:32 P3:20 P4:0 
+(Press enter to play a round)
+
+Round Number 32 - P1:[-]  Winner P2:[A]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:33 P3:19 P4:0 
+(Press enter to play a round)
+
+Round Number 33 - P1:[-]  P2:[3]  Winner P3:[10]  P4:[-]  
+Deck Count - P1:0 P2:32 P3:20 P4:0 
+(Press enter to play a round)
+
+Round Number 34 - P1:[-]  Winner P2:[8]  Winner P3:[8]  P4:[-]  
+Round Number 34 - Winner P2:[A] [X,X,X] P3:[2] [X,X,X] 
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 35 - P1:[-]  Winner P2:[J]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 36 - P1:[-]  P2:[5]  Winner P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 37 - P1:[-]  P2:[4]  Winner P3:[A]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 38 - P1:[-]  Winner P2:[7]  P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 39 - P1:[-]  P2:[9]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 40 - P1:[-]  Winner P2:[A]  P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 41 - P1:[-]  Winner P2:[K]  P3:[8]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 42 - P1:[-]  P2:[3]  Winner P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 43 - P1:[-]  P2:[4]  Winner P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 44 - P1:[-]  P2:[4]  Winner P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:35 P3:17 P4:0 
+(Press enter to play a round)
+
+Round Number 45 - P1:[-]  Winner P2:[Q]  P3:[10]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 46 - P1:[-]  Winner P2:[10]  P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 47 - P1:[-]  P2:[9]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 48 - P1:[-]  Winner P2:[Q]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 49 - P1:[-]  Winner P2:[J]  P3:[10]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 50 - P1:[-]  Winner P2:[9]  P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:39 P3:13 P4:0 
+(Press enter to play a round)
+
+Round Number 51 - P1:[-]  Winner P2:[K]  P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:40 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 52 - P1:[-]  P2:[K]  Winner P3:[A]  P4:[-]  
+Deck Count - P1:0 P2:39 P3:13 P4:0 
+(Press enter to play a round)
+
+Round Number 53 - P1:[-]  Winner P2:[Q]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:40 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 54 - P1:[-]  P2:[6]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:39 P3:13 P4:0 
+(Press enter to play a round)
+
+Round Number 55 - P1:[-]  Winner P2:[J]  P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:40 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 56 - P1:[-]  Winner P2:[10]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:41 P3:11 P4:0 
+(Press enter to play a round)
+
+Round Number 57 - P1:[-]  P2:[2]  Winner P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:40 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 58 - P1:[-]  Winner P2:[5]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:41 P3:11 P4:0 
+(Press enter to play a round)
+
+Round Number 59 - P1:[-]  Winner P2:[J]  P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:42 P3:10 P4:0 
+(Press enter to play a round)
+
+Round Number 60 - P1:[-]  Winner P2:[A]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:43 P3:9 P4:0 
+(Press enter to play a round)
+
+Round Number 61 - P1:[-]  P2:[3]  Winner P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:42 P3:10 P4:0 
+(Press enter to play a round)
+
+Round Number 62 - P1:[-]  P2:[2]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:41 P3:11 P4:0 
+(Press enter to play a round)
+
+Round Number 63 - P1:[-]  P2:[6]  Winner P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:40 P3:12 P4:0 
+(Press enter to play a round)
+
+Round Number 64 - P1:[-]  P2:[8]  Winner P3:[A]  P4:[-]  
+Deck Count - P1:0 P2:39 P3:13 P4:0 
+(Press enter to play a round)
+
+Round Number 65 - P1:[-]  P2:[2]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 66 - P1:[-]  P2:[3]  Winner P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 67 - P1:[-]  P2:[8]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:36 P3:16 P4:0 
+(Press enter to play a round)
+
+Round Number 68 - P1:[-]  Winner P2:[5]  P3:[2]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 69 - P1:[-]  Winner P2:[A]  P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 70 - P1:[-]  P2:[2]  Winner P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 71 - P1:[-]  Winner P2:[8]  P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 72 - P1:[-]  Winner P2:[J]  P3:[2]  P4:[-]  
+Deck Count - P1:0 P2:39 P3:13 P4:0 
+(Press enter to play a round)
+
+Round Number 73 - P1:[-]  P2:[4]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:38 P3:14 P4:0 
+(Press enter to play a round)
+
+Round Number 74 - P1:[-]  P2:[7]  Winner P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:37 P3:15 P4:0 
+(Press enter to play a round)
+
+Round Number 75 - P1:[-]  Winner P2:[6]  Winner P3:[6]  P4:[-]  
+Round Number 75 - Winner P2:[K] [X,X,X] P3:[2] [X,X,X] 
+Deck Count - P1:0 P2:42 P3:10 P4:0 
+(Press enter to play a round)
+
+Round Number 76 - P1:[-]  Winner P2:[10]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:43 P3:9 P4:0 
+(Press enter to play a round)
+
+Round Number 77 - P1:[-]  Winner P2:[Q]  P3:[6]  P4:[-]  
+Deck Count - P1:0 P2:44 P3:8 P4:0 
+(Press enter to play a round)
+
+Round Number 78 - P1:[-]  Winner P2:[10]  P3:[8]  P4:[-]  
+Deck Count - P1:0 P2:45 P3:7 P4:0 
+(Press enter to play a round)
+
+Round Number 79 - P1:[-]  P2:[9]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:44 P3:8 P4:0 
+(Press enter to play a round)
+
+Round Number 80 - P1:[-]  Winner P2:[3]  P3:[2]  P4:[-]  
+Deck Count - P1:0 P2:45 P3:7 P4:0 
+(Press enter to play a round)
+
+Round Number 81 - P1:[-]  Winner P2:[Q]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:46 P3:6 P4:0 
+(Press enter to play a round)
+
+Round Number 82 - P1:[-]  P2:[J]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:45 P3:7 P4:0 
+(Press enter to play a round)
+
+Round Number 83 - P1:[-]  Winner P2:[10]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:46 P3:6 P4:0 
+(Press enter to play a round)
+
+Round Number 84 - P1:[-]  Winner P2:[9]  P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:47 P3:5 P4:0 
+(Press enter to play a round)
+
+Round Number 85 - P1:[-]  P2:[5]  Winner P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:46 P3:6 P4:0 
+(Press enter to play a round)
+
+Round Number 86 - P1:[-]  Winner P2:[K]  P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:47 P3:5 P4:0 
+(Press enter to play a round)
+
+Round Number 87 - P1:[-]  P2:[7]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:46 P3:6 P4:0 
+(Press enter to play a round)
+
+Round Number 88 - P1:[-]  P2:[4]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:45 P3:7 P4:0 
+(Press enter to play a round)
+
+Round Number 89 - P1:[-]  Winner P2:[Q]  P3:[J]  P4:[-]  
+Deck Count - P1:0 P2:46 P3:6 P4:0 
+(Press enter to play a round)
+
+Round Number 90 - P1:[-]  Winner P2:[9]  P3:[5]  P4:[-]  
+Deck Count - P1:0 P2:47 P3:5 P4:0 
+(Press enter to play a round)
+
+Round Number 91 - P1:[-]  Winner P2:[J]  P3:[9]  P4:[-]  
+Deck Count - P1:0 P2:48 P3:4 P4:0 
+(Press enter to play a round)
+
+Round Number 92 - P1:[-]  P2:[3]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:47 P3:5 P4:0 
+(Press enter to play a round)
+
+Round Number 93 - P1:[-]  Winner P2:[10]  P3:[7]  P4:[-]  
+Deck Count - P1:0 P2:48 P3:4 P4:0 
+(Press enter to play a round)
+
+Round Number 94 - P1:[-]  P2:[4]  Winner P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:47 P3:5 P4:0 
+(Press enter to play a round)
+
+Round Number 95 - P1:[-]  Winner P2:[5]  P3:[4]  P4:[-]  
+Deck Count - P1:0 P2:48 P3:4 P4:0 
+(Press enter to play a round)
+
+Round Number 96 - P1:[-]  Winner P2:[J]  P3:[3]  P4:[-]  
+Deck Count - P1:0 P2:49 P3:3 P4:0 
+(Press enter to play a round)
+
+Round Number 97 - P1:[-]  P2:[7]  Winner P3:[K]  P4:[-]  
+Deck Count - P1:0 P2:48 P3:4 P4:0 
+(Press enter to play a round)
+
+Round Number 98 - P1:[-]  Winner P2:[A]  P3:[Q]  P4:[-]  
+Deck Count - P1:0 P2:49 P3:3 P4:0 
+(Press enter to play a round)
+
+Round Number 99 - P1:[-]  Winner P2:[4]  Winner P3:[4]  P4:[-]  
+Round Number 99 - Winner P2:[A] [X,X,X] P3:[-] [X,X,X] 
+Deck Count - P1:0 P2:52 P3:0 P4:0 
+selliott@Shanes-MacBook-Pro-3 WAR-Card-Game % 
